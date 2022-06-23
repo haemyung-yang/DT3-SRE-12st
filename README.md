@@ -117,10 +117,23 @@
 ![image](https://user-images.githubusercontent.com/56831448/175242969-5d71da88-7ee9-44e0-9432-13c3b122cb03.png)
 
 # SLA 운영 - 무정지 배포 (Zero downtime Deploy)
-###
+### Order deployment 설정 
+![image](https://user-images.githubusercontent.com/56831448/175243672-352cbf36-94c1-49c7-a9e1-eebc4c543c0b.png)
 
 # Service Mesh 인프라 구축
+### istio 설치 
+![image](https://user-images.githubusercontent.com/56831448/175244069-8c25aa63-4a68-4846-933a-df78280736f4.png)
+
+### default namespace pod에 sidecar 배포
+* namespace 설정 확인 
+* ![image](https://user-images.githubusercontent.com/56831448/175244430-a849c1b3-6cb6-4f14-95da-b6ffd1e34347.png)
+
+* sidecar 확인
+* ![image](https://user-images.githubusercontent.com/56831448/175244702-99c90996-6001-4882-9c29-95870ae39f96.png)
+
 # Service Mesh 기반 마이크로서비스 Resilience 적용
 # 마이크로서비스 통합 모니터링
+![image](https://user-images.githubusercontent.com/56831448/175248374-b04f0cbe-a220-4919-b1e6-58f18e7a579f.png)
+
 # 마이크로서비스 통합 로깅
 # 분산 메시징 플랫폼 모니터링
