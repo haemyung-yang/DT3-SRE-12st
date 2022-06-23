@@ -106,10 +106,19 @@
 ![image](https://user-images.githubusercontent.com/56831448/175241077-75241e66-3b54-4a85-8948-67a9ed6cc725.png)
 
 # 분산 메시징 인프라 구축
+### Kafka 설치
+![image](https://user-images.githubusercontent.com/56831448/175241589-212fa9da-56dd-41c6-bc52-e408c6c59e46.png)
 
+# SLA 운영 - 오토 스케일아웃 (Auto Scale-out)
+### HPA Setting & Watch deployment
+![image](https://user-images.githubusercontent.com/56831448/175242828-596bc91b-cbf9-4124-b1a8-c44cfceed34c.png)
 
-# SLA 운영 - 오토 스케일아웃 (Auto Scale-out) 
-# SLA 운영 - 무정지 배포 (Zero downtime Deploy) 
+### 부하 
+![image](https://user-images.githubusercontent.com/56831448/175242969-5d71da88-7ee9-44e0-9432-13c3b122cb03.png)
+
+# SLA 운영 - 무정지 배포 (Zero downtime Deploy)
+###
+
 # Service Mesh 인프라 구축
 # Service Mesh 기반 마이크로서비스 Resilience 적용
 # 마이크로서비스 통합 모니터링
