@@ -87,6 +87,8 @@
 ![image](https://user-images.githubusercontent.com/56831448/175860867-32fabbf5-abc0-4203-8020-3639645c807d.png)
 
 # MSA Architecture
+![image](https://user-images.githubusercontent.com/56831448/175873704-34b870a4-481c-4a44-bd5e-f440393f3c4c.png)
+
 # Cloud Platform 프로비저닝
 ### EKS Cluster Provisioning
 ![image](https://user-images.githubusercontent.com/56831448/175239609-d0cdef0c-78be-4ed4-81f1-d72b6ccac823.png)
