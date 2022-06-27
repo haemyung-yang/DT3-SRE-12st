@@ -84,6 +84,8 @@
 
 
 # Event Storming
+![image](https://user-images.githubusercontent.com/56831448/175860867-32fabbf5-abc0-4203-8020-3639645c807d.png)
+
 # MSA Architecture
 # Cloud Platform 프로비저닝
 ### EKS Cluster Provisioning
