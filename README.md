@@ -136,4 +136,6 @@
 ![image](https://user-images.githubusercontent.com/56831448/175248374-b04f0cbe-a220-4919-b1e6-58f18e7a579f.png)
 
 # 마이크로서비스 통합 로깅
+![image](https://user-images.githubusercontent.com/56831448/175845570-c3730740-da93-4b20-b4cd-b3130a89124e.png)
+
 # 분산 메시징 플랫폼 모니터링
