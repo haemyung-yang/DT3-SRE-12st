@@ -139,3 +139,5 @@
 ![image](https://user-images.githubusercontent.com/56831448/175845570-c3730740-da93-4b20-b4cd-b3130a89124e.png)
 
 # 분산 메시징 플랫폼 모니터링
+![image](https://user-images.githubusercontent.com/56831448/175860415-e19c6083-a1ef-43c8-aa0c-9f676fd654b1.png)
+
